@@ -1,0 +1,12 @@
+---
+title: "About"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+To learn more about my work visit: -
+[GitHub](https://github.com/AnthonyKag) -
+[LinkedIn](https://www.linkedin.com/in/antonios-kagialis-510178243/) -
+[ORCID](https://orcid.org/0000-0002-9211-0455) - [Google
+Scholar](https://scholar.google.com/citations?user=R6WjGI8AAAAJ&hl=en)
